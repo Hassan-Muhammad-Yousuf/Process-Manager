@@ -3,7 +3,7 @@
 
 This project uses a simulator for memory management and process scheduling to give a practical means to see and grasp several scheduling methods and memory allocation strategies. To assess the system's efficiency users may enter process details, select scheduling and memory management techniques, and get performance statistics and visualisations.
 
-## traits
+## Traits
 
 ## Algorithms of scheduling:
 Shortest Job First (SJF) 
